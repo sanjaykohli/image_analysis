@@ -43,6 +43,3 @@ Tools for manual inspection and Open-Source Intelligence gathering.
 ## Contributing
 This is an open-source project. Feel free to contribute or report issues.
 [GitHub Repository](https://github.com/sanjaykohli/image_analysis)
-
-## License
-MIT License
